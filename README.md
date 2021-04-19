@@ -1,10 +1,10 @@
 <h1> 👋 Hi, I’m @Heinrick-Senna _ I’m interested in Dev Front-End </h1>
 
 # 🤔 Who are you? #
-- I'am from Brazil
-- I study a lot of front-end stuff
-- I have a technical diploma in informatics for web
-- 2+ Years of experiêncie in front-end
+- I'am from Brazil.
+- I study a lot of front-end stuff.
+- I have a technical diploma in informatics for web.
+- 2+ Years of experiêncie in front-end.
 
 # 📖 What's you studing now? #
 - Typescript
