@@ -3,9 +3,9 @@
 <h1 align="center">🤔 Who are you?</h1>
 <ul>
   <li>I'am from Brazil.</li>
-  <li>I study a lot of front-end stuff.</li>
+  <li>I study a lot of dev stuff.</li>
   <li>I have a technical diploma in informatics for web.</li>
-  <li>2+ Years of experiêncie in front-end.</li>
+  <li>4+ Years of experiêncie in web-dev</li>
  </ul>
 
 <h1 align="center">📖 What's you studing now?</h1>
@@ -22,7 +22,7 @@
   <li>SASS / HANDLE-BARS</li>
   <li>NODE.JS / NPM / EXPRESS</li>
   <li>GITHUB / GITBASH</li>
-  <li>VUE.JS / ANGULAR.JS / TYPESCRIPT</li>
+  <li>REACT.JS / NEXT.JS / TYPESCRIPT</li>
   <li>Adobe Package / Office Package</li>
   <li>MongoDB (Basics) / Docker (Basics)</li>
   <li>Jquery (Obsolete)</li>
