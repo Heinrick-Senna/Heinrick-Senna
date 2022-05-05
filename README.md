@@ -30,7 +30,5 @@
 
 <h1 align="center">📫 How to reach you? # 
 - marcelohz198@hotmail.com / marcelohz198@gmail.com
-- marceloheinrick.com.br
-- 📷 @Heinrick_Senna
 
-<h1 align="center">"If it's to be, be great " / "Se for pra ser, seja grande"</h1>
+<h2 align="center">"If it's to be, be great " / "Se for pra ser, seja grande"</h2>
