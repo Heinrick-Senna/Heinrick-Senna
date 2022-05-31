@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I’m @Heinrick-Senna _ I’m an Dev Front-End </h1>
+<h1 align="center">👋 Hi, I’m @Heinrick-Senna _ I’m an Dev FullStack </h1>
 
 <h1 align="center">🤔 Who are you?</h1>
 <ul>
