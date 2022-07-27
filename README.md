@@ -12,11 +12,11 @@
 ---
 
    - [ ] How to reach you? 
-   - [x] marcelohz198@hotmail.com <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"/>
+   - [x] marcelohz198@hotmail.com <img href="marcelohz198@hotmail.com" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"/>
    - [x] marcelohz198@gmail.com <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-   - [x] 11 967240380 <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
-   - [x] marcelosenna.com.br <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"/>
-   - [x] linkedin.com/in/marcelo-heinrick <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+   - [x] <a href="https://api.whatsapp.com/send?phone=555511967240380">11 967240380</a> <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+   - [x] <a href="https://marcelosenna.com.br/">marcelosenna.com.br</a><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"/>
+   - [x] <a href="https://www.linkedin.com/in/marcelo-heinrick/">linkedin.com/in/marcelo-heinrick <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
 ---
   
