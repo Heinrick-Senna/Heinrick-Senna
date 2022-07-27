@@ -114,4 +114,4 @@
 
 ---
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=heinrick-senna&show_icons=true&locale=en&layout=compact" alt="heinrick-senna" /> <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=heinrick-senna&" alt="heinrick-senna" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=heinrick-senna&show_icons=true&locale=pt-br" alt="heinrick-senna" /><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=heinrick-senna&locale=en&layout=compact" alt="heinrick-senna" />
