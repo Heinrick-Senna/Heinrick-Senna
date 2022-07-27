@@ -12,8 +12,8 @@
 ---
 
    - [ ] How to reach you? 
-   - [x] <a href="mailto:marcelohz198@hotmail.com">marcelohz198@hotmail.com <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"/></a>
-   - [x] <a href="mailto:marcelohz198@gmail.com">marcelohz198@gmail.com <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+   - [x] marcelohz198@hotmail.com<a href="mailto:marcelohz198@hotmail.com"> <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"/></a>
+   - [x] <span>marcelohz198@gmail.com</span> <a href="mailto:marcelohz198@gmail.com"> https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white </a>
    - [x] <a href="https://api.whatsapp.com/send?phone=555511967240380">11 967240380 <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
    - [x] <a href="https://marcelosenna.com.br/">marcelosenna.com.br <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"/></a>
    - [x] <a href="https://www.linkedin.com/in/marcelo-heinrick/">linkedin.com/in/marcelo-heinrick <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
