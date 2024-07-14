@@ -20,7 +20,6 @@
 ---
   
   - **21** Years.
-  - A fullstack dev, but I prefer the **backend.**
   - Live and born on Brazil. I speak English, Spanish and Portuguese.
 
 ---
