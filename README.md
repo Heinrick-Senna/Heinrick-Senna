@@ -7,5 +7,4 @@
    <li>[x] <a href="https://www.linkedin.com/in/marcelo-heinrick/">https://www.linkedin.com/in/marcelo-heinrick/</a></li>
 </ol>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=heinrick-senna&show_icons=true&locale=pt-br" alt="heinrick-senna" />
-<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=heinrick-senna&locale=en&layout=compact" alt="heinrick-senna" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=heinrick-senna&show_icons=true&locale=pt-br" alt="heinrick-senna" /> <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=heinrick-senna&locale=en&layout=compact" alt="heinrick-senna" />
