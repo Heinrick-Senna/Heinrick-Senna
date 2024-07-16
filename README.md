@@ -1,7 +1,7 @@
 <h1>😎 Hi, I Am Marcelo! 👋</h1>
 <p>I am a FullStack Developer, I have 21 Years Old, Living and Born in Brazil <img alt="Brazil" src="https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/br.png"></p>
 
-<h2>What you work with?</h2>
+<h2>🔎 What you work with? 🛠️</h2>
 <div>
 
    <div>
