@@ -22,5 +22,5 @@
 
 <hr>
 
-<h2>Statics</h>
+<h2>Statics</h2>
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=heinrick-senna&show_icons=true&locale=pt-br" alt="heinrick-senna" /> <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=heinrick-senna&locale=en&layout=compact" alt="heinrick-senna" />
