@@ -4,9 +4,7 @@
 <h2>🔎 What you work with? 🛠️</h2>
 <div>
 
-   <div>
-      
-   </div>
+   <img src="https://media.tenor.com/kbbJOE4dIJkAAAAM/working-on.gif" />
    
 </div>
 
