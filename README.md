@@ -1,10 +1,8 @@
-# 😎 Hi, I Am Marcelo! 👋
+# 😎 Hi, I Am Marcelo! A 22 Years Old FullStack Developer! 🔥
 
-<span>
-I’m a FullStack Developer, 22 years old, living and born in Brazil &nbsp;
-<img alt="Brazil" src="https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/br.png" />
-</span>
-
+## 🌍 Languages I Speak 🗣️
+- Portuguese <img alt="Brazil" src="https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/br.png" />
+- English <img alt="USA" style="width: 16px;height:16px;" src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" />
 
 ## 🔎 What do I work with? 🛠️
 
@@ -27,18 +25,5 @@ I’m a FullStack Developer, 22 years old, living and born in Brazil &nbsp;
 
 ## 📊 GitHub Stats
 
-<div style="display:flex;justify-content: space-between;width: 100%;">
-
-  <div>
-  
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=heinrick-senna&show_icons=true&locale=pt-br)
-  
-  </div>
-  
-  <div>
-  
   ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=heinrick-senna&locale=en&layout=compact)
-  
-  </div>
-
-</div>
