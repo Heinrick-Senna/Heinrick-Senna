@@ -1,24 +1,32 @@
-<h1>😎 Hi, I Am Marcelo! 👋</h1>
-<p>I am a FullStack Developer, I have 21 Years Old, Living and Born in Brazil <img alt="Brazil" src="https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/br.png"></p>
+# 😎 Hi, I Am Marcelo! 👋
 
-<h2>🔎 What you work with? 🛠️</h2>
-<div>
+I’m a FullStack Developer, 22 years old, living and born in Brazil  
+<img alt="Brazil" src="https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/br.png" />
 
-   <img src="https://media.tenor.com/kbbJOE4dIJkAAAAM/working-on.gif" />
-   
-</div>
+---
 
-<hr>
+## 🔎 What do I work with? 🛠️
 
-<h2>🤳 How to reach you? 📲</h2>
-<div>
-   <a href="mailto:marcelohz198@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-   <a href="https://marcelosenna.com.br/"><img alt="Website" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" /></a>
-   <a href="https://www.linkedin.com/in/marcelo-heinrick/"><img alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-   <a href="https://wa.me/5511967240380"><img alt="Website" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
-</ol>
+- ⚛️ React & TypeScript
+- 🐘 Node.js / Nest.js
+- 🔥 MySQL, PostgreSQL, SQLite, Firebird
+- ⚡ Electron (desktop apps)
+- 💅 TailwindCSS, shadcn/ui
+- 🧪 Jest & Testing Library
+- 🧠 Clean Architecture, SOLID principles
 
-<hr>
+---
 
-<h2>Statics</h2>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=heinrick-senna&show_icons=true&locale=pt-br" alt="heinrick-senna" /> <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=heinrick-senna&locale=en&layout=compact" alt="heinrick-senna" />
+## 🤳 How to reach me? 📲
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marcelohz198@gmail.com)
+[![Website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://marcelosenna.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcelo-heinrick/)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5511967240380)
+
+---
+
+## 📊 GitHub Stats
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=heinrick-senna&show_icons=true&locale=pt-br)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=heinrick-senna&locale=en&layout=compact)
